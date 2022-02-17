@@ -1,6 +1,9 @@
 Ticket System
 =====
 
+warning::
+once a ticket is made it CANNOT be undone, be sure you have created the right ticket
+
 Support Tickets 
 ------
 Something wrong with the server? have a really interesting question (that HASN'T been answered in a public channel)? Found a bug/would like to discuss something with staff? 
