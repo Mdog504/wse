@@ -41,8 +41,9 @@ This will give the player access to use buttons, levers, bees, crafting gear, co
 Share your permission level
 --------
 
-To grant someone the same permissions as you inside another player's claim, use the command ``/permissiontrust``
-Please ensure the owner of the claim is happy for the other person to have access to the claim.
+To grant someone the ability to manage permissions inside your claim, use the command ``/permissiontrust``
+Watch out as this allows the player to trust others inside your claim, make sure you trust them!
+
 
 Untrust player
 --------
