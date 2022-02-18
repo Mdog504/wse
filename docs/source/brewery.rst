@@ -1,6 +1,8 @@
 Brewery
 =====
 
+
+
 Fermenting
 --------
 
@@ -14,7 +16,13 @@ The first step in making a drink is to ferment the raw ingredients.
 
 4. Fill glass bottles with the fermented liquid
 
-You can use a clock to see how long the fermentation has been going on.
+
+
+.. image:: https://cdn.discordapp.com/attachments/943850906817036370/944358740839264256/Bedrock_JE2_BE2.webp
+    :width: 30
+All drinks have the same color on bedrock.
+
+| You can use a clock to see how long the fermentation has been going on.
 
 Distilling
 --------
@@ -28,16 +36,6 @@ To ferment:
 
 Ageing
 --------
-
-A barrel is needed for aging. 
-
-**Minecraft Barrel** | 6 slots
-The standard Minecraft Barrel can be used for aging of a few brews.
-Simply craft and place the barrel and put the brews inside.
-
-.. image:: https://gamepedia.cursecdn.com/minecraft_de_gamepedia/thumb/3/33/Fass.png/150px-Fass.png?version=ed8bc982279530ea46dac7b932ec1b86
-
-You can also build bigger barrels. They can be built in two ways:
 
 **Small barrel** | 9 Slots
 

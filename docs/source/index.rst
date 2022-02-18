@@ -1,22 +1,30 @@
 Worst Server Ever documentation
 ===================================
 
+.. note::
+
+   This documentation is under active development. This means some commands may not yet be documented.
+
 Welcome to the documentation for the Worst Server Ever! Here you can find information on commands and how to use them!
+
+This icon indicates that the feature doesn't work or has limited functionality on bedrock.
+
+.. image:: https://cdn.discordapp.com/attachments/943850906817036370/944358740839264256/Bedrock_JE2_BE2.webp
+    :width: 100
 
 Want to join the server?
 --------
 
 Join our `Discord <https://discord.worstserverver.com>`_!
 
-IP: play.worstserverever.com
+Minecraft Server IP: play.worstserverever.com
 
 Bedrock port: 19132
 
 Java port: 25565
 
-.. note::
+.. warning:: We cannot help with joining the minecraft server on console platforms.
 
-   This documentation is under active development. This means some commands may not yet be documented.
 
 Contents
 --------

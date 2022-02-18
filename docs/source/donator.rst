@@ -11,6 +11,8 @@ Perks
 
 .. image:: https://i.imgur.com/2bCBbZv.jpg
 
+outdated image, will be updated soon.
+
 .. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
 
 
@@ -43,6 +45,10 @@ Sign edit
 
 Shift/Sneak and right click the sign.
 This allows you to edit the sign without breaking it.
+
+.. image:: https://cdn.discordapp.com/attachments/943850906817036370/944358740839264256/Bedrock_JE2_BE2.webp
+    :width: 30
+Doesn't work. Attempting to edit will unformat sign text if formatted before.
 
 Painting scroll
 --------
