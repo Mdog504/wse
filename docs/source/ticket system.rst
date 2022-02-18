@@ -4,7 +4,7 @@ Ticket System
 Support Tickets 
 --------
 
-Something wrong with the server? have a really interesting question (that HASN'T been answered in a public channel)? Found a bug/would like to discuss something with staff? 
+Something wrong with the server? have a really interesting question (that HASN'T been answered in a public channel)? Found a bug/would like to discuss something with staff?
 Well then support tickets are here for YOU!
 
 .. warning::
