@@ -5,9 +5,14 @@ Welcome to the documentation for the Worst Server Ever! Here you can find inform
 
 Want to join the server?
 --------
-Discord: https://discord.worstserverver.com
+
+Join the `discord <https://discord.worstserverver.com>`_
 
 IP: play.worstserverever.com
+
+Bedrock port: 19132
+
+Java port: 25565
 
 .. note::
 

@@ -10,7 +10,7 @@ Perks
 
 .. image:: https://i.imgur.com/2bCBbZv.jpg
 
-Please note that you can only purchase Donator, 420, UwU and Senpai as of right now.
+.. note:: You can only purchase Donator, 420, UwU and Senpai as of right now.
 
 
 Fly

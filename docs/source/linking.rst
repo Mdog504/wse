@@ -5,9 +5,9 @@ Link Discord and Minecraft accounts
 --------
 
 To link you Discord and Minecraft accounts, run ``/dlink`` in game.
-This will generate a 4 digit code which is send in chat to you.
+This will generate a 4 digit code which is sent in chat to you.
 Then DM the Worst Server Ever bot on discord (Name: 'Worst Server Ever#9344') with the code.
-If you have done this correctly, your accounts will be linked and you will recieve a discord tag ingame.
+If you have done this correctly, your accounts will be linked and you will recieve a discord tag in-game.
 
 Link Java and Bedrock accounts
 --------
@@ -25,4 +25,4 @@ Then on the other account run ``/linkaccount <code>``
 
 Your accounts are now linked!
 
-For more details see https://link.geysermc.org/start
+For more details see `the geyser linking tutorial <https://link.geysermc.org/start>`_
