@@ -8,9 +8,9 @@ Something wrong with the server? have a really interesting question (that HASN'T
 Well then support tickets are here for YOU!
 
 .. warning::
-    Before making a ticket, ask yourself ifa regular member can answer your question. If so, the #community-help channel is for you!
-    To make a ticket go to #make-a-ticket on our `discord server <https://discord.worstserverever.com>`_ and press the support ticket button.
-    Please then try to tell us what you need support with. Inactive tickets will be closed.
+    Before making a ticket, ask yourself if a regular member can answer your question. If so, the `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_ channel is for you!
+    To make a ticket go to `#make-a-ticket <https://canary.discord.com/channels/776986519910875168/835936704380272701>`_ on our `discord server <https://discord.worstserverever.com>`_ and press the support ticket button.
+    Please then try to tell us what you need support with. Tickets that remain inactive or contain rude behavior will be closed.
     If the issue involves an in-game issue please provide relevant information (like coordinates and usernames).
 
 
