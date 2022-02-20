@@ -14,3 +14,7 @@ at its default state mending is too powerful to use so we have tweeked it to be 
 I keep hearing of an in game chat, how do I access?
 ----
 to access in game chat you must `link your discord and minecraft accounts <https://docs.worstserverever.com/en/latest/linking.html#link-discord-and-minecraft-accounts>`_
+
+I have another question
+----
+ask in `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_
