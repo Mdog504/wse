@@ -3,14 +3,14 @@ Extra Enchantments
 
 Here is a guide on how to make the enchantments that have been added.
 
-.. note:: throughout this guide all these recipies are "shaped" this means they have to look exactly like the image or they can't be crafted
+.. note:: Throughout this guide all these recipies are "shaped" this means they have to look exactly like the image or they can't be crafted.
 
 Blank Enchanted Book
 --------
 
 .. image:: https://media.discordapp.net/attachments/877207380625096734/945009221240512592/unknown.png
 
-To make a block enchated book, use a Mending book and blaze powder.
+To make a blank enchanted book, use a mending book and blaze powder.
 
 .. note:: This book is needed in most recipies.
 
@@ -21,7 +21,7 @@ Book of The Gods
 
 You will need: 3 blank enchantment books, 1 nether star, 1 heart of the sea
 
-.. note:: This book is used to make achient enchantments.
+.. note:: This book is used to make ancient enchantments.
 
 Careless Enchantment
 --------
