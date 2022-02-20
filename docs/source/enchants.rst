@@ -3,7 +3,7 @@ Extra Enchantments
 
 Here is a guide on how to make the enchantments that have been added.
 
-.. note:: Throughout this guide all these recipies are "shaped" this means they have to look exactly like the image or they can't be crafted.
+.. note:: Throughout this guide all these recipies are "shaped". This means they have to look exactly like the image or they can't be crafted.
 
 Blank Enchanted Book
 --------
