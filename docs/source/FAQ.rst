@@ -23,6 +23,11 @@ How do I join on console
 ----
 While there is ways to join on console we will not provide support for them as they are not approved by mojang and may not be trustworthy
 
+I died from lag, can I get my stuff back, please mods
+----
+short answer: no
+long answer: no
+
 I have another question
 ----
 ask in `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_
