@@ -6,7 +6,7 @@ Support Tickets
 
 Something wrong with the server? have a really interesting question (that HASN'T been answered in a public channel)? Found a bug/would like to discuss something with staff?
 Well then support tickets are here for YOU!
-
+a very cool edit
 .. warning::
     Before making a ticket, ask yourself ifa regular member can answer your question. If so, the #community-help channel is for you!
     To make a ticket go to #make-a-ticket on our `discord server <https://discord.worstserverever.com>`_ and press the support ticket button.
