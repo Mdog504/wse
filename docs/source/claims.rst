@@ -5,7 +5,7 @@ Claim Area
 --------
 
 | To easily claim an area use the command ``/claim``
-This will create an area, marked temporarily by gold and glowstone in which no one else can edit.
+This will create an area, marked temporarily by gold and glowstone, in which no one else can edit blocks.
 You can right click a corner with a wooden shovel to change the size.
 
 Unclaim Area
@@ -14,7 +14,7 @@ Unclaim Area
 | To unclaim an area, stand in it and run the command ``/abandonclaim``
 This action will delete the claim. This is irreversible.
 
-Unclaim all of you claims
+Unclaim all of your claims
 --------
 
 | To unclaim all of your claims, run the command ``/abandonallclaims``
@@ -24,7 +24,7 @@ Trust player
 --------
 
 | To trust a player, use the command ``/trust <player>``
-This will grant them access to your claim.
+This will grant them access to your claim. They cannot manage permissions.
 
 Access Trust
 --------
@@ -93,4 +93,6 @@ This will change your shovel back to creating normal claims.
 I am stuck in a claim
 --------
 
-To teleport out of a claimed area you are trapped in, use the command ``/trapped``
+| To teleport out of a claimed area you are trapped in, use the command ``/trapped``.
+If the command cannot find a safe area, return to server spawn (``/spawn``) or teleport to
+one of your homes (``/homes``). You can't make a home within another player's claim.
