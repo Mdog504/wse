@@ -28,37 +28,38 @@ Unclaim all of your claims
 | To unclaim all of your claims, run the command ``/abandonallclaims``.
 This will delete every claim you own. This is irreversible.
 
+
 Trust player
 --------
 
-| To trust a player, use the command ``/trust <player>``.
+| To trust a player, run the command ``/trust <player>``.
 This will grant them access to your claim.
 
-.. note:: If you are not standing in a specific claim when running the command, you will trust that person in all of your claims.
+.. note:: If you are not standing in a specific claim when running the command, you will trust that person in all of your claims. Furthermore, if you let <player> be the word "public", you will trust *everyone*. This goes for all commands that have to do with trust.
 
 Access trust
 --------
 
-| To give access trust, use the command ``/accesstrust <player>``.
+| To give access trust, run the command ``/accesstrust <player>``.
 This will give the player access to use buttons, levers and beds inside your claim.
 
 Container trust
 --------
 
-| To give container trust, use the command ``/containertrust <player>``.
+| To give container trust, run the command ``/containertrust <player>``.
 This will give the player access to use buttons, levers, bees, crafting gear, containers and animals.
 
 Share your permission level
 --------
 
-| To grant someone the ability to manage permissions inside your claim, use the command ``/permissiontrust <player>``.
+| To grant someone the ability to manage permissions inside your claim, run the command ``/permissiontrust <player>``.
 Watch out as this allows the player to trust others inside your claim so make sure you trust them!
 
 
 Untrust player
 --------
 
-| To untrust a player, use the command ``/untrust <player>``.
+| To untrust a player, run the command ``/untrust <player>``.
 This will remove all permissions that said player had in the claim you are standing in.
 
 .. note:: If you are not standing in a specific claim when running this command, you will untrust the player in all of your claims.
@@ -72,7 +73,7 @@ This toggles if explosions are allowed inside the claim.
 Give pet / transfer ownership of a pet 
 --------
 
-| To give a pet, use the command ``/givepet <player>``.
+| To give a pet, run the command ``/givepet <player>``.
 This commands transfers the ownership of a tamed animal to another player and is irreversible.
 
 List claims
@@ -84,14 +85,14 @@ This lists several things, including: The amount of claim blocks you have used, 
 Create subclaim
 --------
 
-| To make a subclaim, use the command ``/subdivideclaims``.
+| To make a subclaim, run the command ``/subdivideclaims``.
 Once you have done this you can use your wooden shovel to create subclaims.
 A subclaim is a claim within a claim that you can grant different permissions for.
 
 Restrict subclaim
 --------
 
-| To restrict a subclaim, use the command ``/restrictsubclaim``
+| To restrict a subclaim, run the command ``/restrictsubclaim``
 This will make it so the subclaim no longer uses the same permissions as the claim it is in.
 
 .. note:: What this means is that the permissions for the subclaim are separated from the permissions of the main claim, so you can set permissions for that subclaim without affecting the permissions of the main claim.
@@ -99,7 +100,7 @@ This will make it so the subclaim no longer uses the same permissions as the cla
 Return to normal claiming
 --------
 
-| To return to normal claiming mode, use the command ``/basicclaims``.
+| To return to normal claiming mode, run the command ``/basicclaims``.
 This will change your shovel back to creating normal claims.
 
 How to get out of a claim if stuck
