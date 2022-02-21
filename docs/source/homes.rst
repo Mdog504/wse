@@ -6,7 +6,7 @@ Homes
 Set Home
 ------------
 
-To set your home, run the command ``/sethome <name>`` where <name> is the name of the home.
+To set your home, run the command ``/sethome <name>``, where <name> is the name of the home.
 You can then select the item that will represent your home from the next menu.
 You can make up to 3 homes unless you are a `donator <https://docs.worstserverever.com/en/latest/donator.html>`_.
 
