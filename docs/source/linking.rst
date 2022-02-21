@@ -20,8 +20,8 @@ Before you link your accounts, please ensure that you have stored the inventory 
 
 The easiest way to link your Java and Bedrock accounts is by joining the linking server.
 The IP for this server is: ``link.geysermc.org``
-Bedrock port: ``19132``
-Java port: ``25565``
+| Bedrock port: ``19132``
+| Java port: ``25565``
 
 Once you have joined on both accounts, run the command ``/linkaccount`` on one of the accounts.
 This generates a random number which is messaged to you.
