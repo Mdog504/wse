@@ -1,10 +1,6 @@
 Worst Server Ever documentation
 ===================================
 
-.. note::
-
-   This documentation is under active development. This means some commands may not yet be documented.
-
 Welcome to the documentation for the Worst Server Ever! Here you can find information on commands and how to use them!
 
 This icon indicates that the feature doesn't work or has limited functionality on bedrock.
