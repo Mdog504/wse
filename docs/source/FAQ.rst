@@ -1,33 +1,33 @@
 World border
 -----
-the world border is currently 50k x 50k (this includes negative cords)
+The world border is currently 50k x 50k (this includes negative cords).
 
 Data packs
 -----
-the server uses `terralith <https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/>`_ for our upgraded world genneration
+The server uses `Terralith <https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/>`_ for our upgraded world genneration.
 
-Whats up with mending
+Whats up with mending?
 ----
-at its default state mending is too powerful to use so we have tweeked it to be a little more fair 
-.. note:: mending tweaks are still activly being worked on and may be changed with notice
+At it's default state mending is too powerful to use so we have tweaked it to be a little more fair.
+.. note:: Mending tweaks are still actively being worked on and may be changed with notice.
 
 I keep hearing of an in game chat, how do I access?
 ----
-to access in game chat you must `link your discord and minecraft accounts <https://docs.worstserverever.com/en/latest/linking.html#link-discord-and-minecraft-accounts>`_
+to access in game chat you must `link your discord and minecraft accounts <https://docs.worstserverever.com/en/latest/linking.html#link-discord-and-minecraft-accounts>`_.
 
 Do you support cracked minecraft?
 ----
-No, we do not support cracked minecraft, go `buy the game <https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/>`_ to support the developers
+No, we do not support cracked minecraft, go `buy the game <https://minecraft.net/>`_ to support the developers.
 
-How do I join on console
+How do I join on console?
 ----
-While there is ways to join on console we will not provide support for them as they are not approved by mojang and may not be trustworthy
+While there are ways to join on console we will not provide support for them as they are not approved by mojang and may not be trustworthy.
 
-I died from lag, can I get my stuff back, please mods
+I died from lag, can I get my stuff back, please mods?
 ----
 short answer: no
-long answer: no
+long answer: hmmm...                                              no.
 
-I have another question
+I have another question!
 ----
-ask in `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_
+Ask in `#community-help <https://canary.discord.com/channels/776986519910875168/936561352003158036>`_ on our `discord server <https://discord.worstserverever.com>`_.
