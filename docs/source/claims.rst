@@ -33,6 +33,7 @@ Trust player
 
 | To trust a player, use the command ``/trust <player>``.
 This will grant them access to your claim.
+
 .. note:: If you are not standing in a specific claim when running the command, you will trust that person in all of your claims.
 
 Access trust
@@ -59,6 +60,7 @@ Untrust player
 
 | To untrust a player, use the command ``/untrust <player>``.
 This will remove all permissions that said player had in the claim you are standing in.
+
 .. note:: If you are not standing in a specific claim when running this command, you will untrust the player in all of your claims.
 
 Toggle explosions
@@ -91,6 +93,7 @@ Restrict subclaim
 
 | To restrict a subclaim, use the command ``/restrictsubclaim``
 This will make it so the subclaim no longer uses the same permissions as the claim it is in.
+
 .. note:: What this means is that the permissions for the subclaim are separated from the permissions of the main claim, so you can set permissions for that subclaim without affecting the permissions of the main claim.
 
 Return to normal claiming
