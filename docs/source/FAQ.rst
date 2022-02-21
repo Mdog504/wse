@@ -1,6 +1,6 @@
 World border
 -----
-the world border is currently 50kx50x (this includes negative cords)
+the world border is currently 50k x 50k (this includes negative cords)
 
 Data packs
 -----
@@ -9,7 +9,7 @@ the server uses `terralith <https://www.planetminecraft.com/data-pack/terralith-
 Whats up with mending
 ----
 at its default state mending is too powerful to use so we have tweeked it to be a little more fair 
-.. note:: mending tweeks are still activly being worked on and may be changed with notice
+.. note:: mending tweaks are still activly being worked on and may be changed with notice
 
 I keep hearing of an in game chat, how do I access?
 ----
@@ -17,7 +17,7 @@ to access in game chat you must `link your discord and minecraft accounts <https
 
 Do you support cracked minecraft?
 ----
-No, we do not support cracked minecraft, go buy the game to support the developers
+No, we do not support cracked minecraft, go `buy the game <https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/>`_ to support the developers
 
 How do I join on console
 ----
