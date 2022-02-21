@@ -3,10 +3,10 @@ Donator
 
 You can support us `here <https://shop.worstserverever.com>`_!
 
-Donating unlocks perks for you to use on the minecraft server.
-On the discord server you get access to the supporters lounge.
+Donating unlocks perks for you to use on the Minecraft server.
+On the Discord server you get access to the supporters lounge.
 
-.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. The doc will only be updated for changes made to the default tags.
+.. note:: Tags available by default are Donator ($1), 420 haha ($4.20), UwU ($10) and Senpai ($100). Special donator tags are available at random times. This doc will only be updated for changes made to the default tags.
 
 .. warning:: Sadly, at the moment particles don't work due to issues with the plugin.
 
@@ -56,30 +56,30 @@ Perks
     - Ride
     - Ride
     - Ride
-  * - Sethome 4  
-    - Sethome 4
-    - Sethome 4
-    - Sethome 6
-    - Sethome 6
-    - Sethome 7
-    - Sethome 8
-    - Sethome 8
-  * - Coloured Name
-    - Coloured Name
-    - Coloured Name
-    - Coloured Name
-    - Coloured Name
-    - Coloured Name
-    - Coloured Name
-    - Coloured Name
-  * - Personal Time
-    - Personal Time
-    - Personal Time
-    - Personal Time
-    - Personal Time
-    - Personal Time
-    - Personal Time
-    - Personal Time
+  * - 4 homes  
+    - 4 homes
+    - 4 homes
+    - 6 homes
+    - 6 homes
+    - 7 homes
+    - 8 homes
+    - 8 homes
+  * - Coloured name
+    - Coloured name
+    - Coloured name
+    - Coloured name
+    - Coloured name
+    - Coloured name
+    - Coloured name
+    - Coloured name
+  * - Personal time
+    - Personal time
+    - Personal time
+    - Personal time
+    - Personal time
+    - Personal time
+    - Personal time
+    - Personal time
   * -
     - Sit
     - Sit
@@ -155,19 +155,19 @@ Then double jump to fly.
 Hat
 --------
 
-| Hold an item and use ``/hat``
+| Hold an item and use ``/hat``.
 This puts the item in your hand into your head slot.
 
 Ride Player/Dolphin
 --------
 
-| To ride a player you need to look at the player and use ``/ride``
+| To ride a player you need to look at the player and use ``/ride``.
 To ride a dolphin simply right click on it.
 
 Sit
 --------
 
-| To sit, simply right click on a slab or stair with a free hand or use ``/sit``
+| To sit, simply right click on a slab or stair with an empty hand or use ``/sit``.
 Left shift or sneak to stand up.
 
 Sign edit
@@ -186,12 +186,12 @@ Painting scroll
 Shift and right click a painting.
 Then use the scroll wheel to scroll through the available paintings.
 
-Coloured Name
+Coloured name
 --------
 
 By selecting a donator tag, you also have the ability to change the colour of your name.
-To do this simply just run ``/tags`` and select a donator tag (Donator, 420, UwU, Senpai)
-After selecting your tag, another menu will come up with colours on them. From here, simply select the colour you wish your name to be
+To do this, simply run ``/tags`` and select a donator tag (Donator, 420, UwU, Senpai).
+After selecting your tag, another menu will come up with colours on them. From here, select the colour you wish your name to be.
 
 Personal Time
 --------
@@ -214,21 +214,21 @@ Current options:
 Helpful Extras
 --------
 
-These commands, whilst not doing much, help to make your life more efficient on the server.
+These commands, whilst not doing much, help make your life more efficient on the server.
 
-This includes:
+These include:
 
-`/besttools` - Automatically selects the best tool for doing what you are doing (e.g. an axe will be automatically selectedmfor mining wood)
+`/besttools` - Automatically selects the best tool for doing what you are doing (e.g. an axe will be automatically selected when chopping wood)
 
 `/refill` - Automatically replenishes resources into your hand from your inventory when you run out. 
 
-`/chestsort` - Automatically places items into a neat order inside a container
+`/chestsort` - Automatically places items into a neat order inside a container.
 
 You can also open a double door as if it was one door!
 
 Punch Staff
 --------
-.. note:: The UwU tag is needed for this perk!
-
-Anyone with UwU or above has the ability to punch Jr. Mods, Mods, bAdmins and Owners.
+Anyone with UwU rank or above has the ability to punch Jr. Mods, Mods, bAdmins and Owners.
 Simply punch them to send them to the skies!
+
+.. note:: The UwU rank or above is needed for this perk!
