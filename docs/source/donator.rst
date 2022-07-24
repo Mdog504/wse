@@ -70,7 +70,7 @@ Perks
     - Coloured name
     - Coloured name
     - Coloured name
-  * - Personal time
+  * - 
     - Personal time
     - Personal time
     - Personal time
@@ -229,4 +229,4 @@ Punch Staff
 Anyone with UwU rank or above has the ability to punch Jr. Mods, Mods, bAdmins and Owners.
 Simply punch them to send them to the skies!
 
-.. note:: The UwU rank or above is needed for this perk!
+.. note:: The UwU rank or above is needed for this perk!, and staff may opt out of this if they want to!
